@@ -48,7 +48,7 @@ Welcome GRA-1, Check out your details.
 ## Concepts Demostrated
 
 - `while` loops for repeated operations
-- Conditional statements (`f`, `elif`, `else`)
+- Conditional statements (`if`, `elif`, `else`)
 - String comparison and validation
 - Dictionary data structures
 - User input handling
